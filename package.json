@@ -4,6 +4,8 @@
   "description": "A full-stack blockchain app built using React and Node",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "jest --watchAll"
   },
   "keywords": [
@@ -13,9 +15,11 @@
   "author": "Josh Bryson",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "hex-to-binary": "^1.0.1"
   }
 }
