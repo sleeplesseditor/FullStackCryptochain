@@ -1,3 +1,3 @@
 # FullStackCryptochain
 
-A full-stack blockchain/cryptocurrency app built using React and Node, with [David Katz's tutorial](https://www.udemy.com/build-blockchain-full-stack). The app was developed using a TDD approach, with Jest. It requires the use of Redis –  a guide with which to install it, can be found [here](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298).
+A full-stack blockchain/cryptocurrency app built using React and Node, with [David Katz's tutorial](https://www.udemy.com/build-blockchain-full-stack). The app was developed using a TDD approach, with Jest. It requires the use of Redis –  a guide with which to install it on Mac OS X, can be found [here](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298).
